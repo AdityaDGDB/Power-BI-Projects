@@ -23,6 +23,7 @@ Clothing, furniture, and electronics are the top-performing categories in terms 
 ### 3. Most Used Payment Mode
 Cash on Delivery (COD) and (UPI) is the most frequently used payment mode.
 
+![Payment mode](Payment.png)
 
 
 ### 4. Customer with Highest Sales
@@ -56,6 +57,8 @@ Monthly distribution of profits projects November has the highest profit.
    - **Monthly Profit Distribution:** Visualization of profit variations over the months.
    - **Sub-category Profits:** Printers > Bookcase > Accessories > Saree > Tables
 
+## Dashboard View
+![Dashboard](Dash.png)
 ## How to Use the Dashboard
 
 1. **Slicers:**
