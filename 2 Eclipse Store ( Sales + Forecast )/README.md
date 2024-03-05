@@ -25,8 +25,16 @@ This include major segments like home office, consumer, corporate etc.
 Office supplies, technology and furniture are the major category also provided with major sub categories like phone, chair and binders.
 ### 5. KPI
 Sales, Quantity of sales, net profit and ship date are shown as the major key  performances indicator.
+![KPI](KPI.png)
+
+## Dashboard View
+###Overall
+![Dash](Dash.png)
+###South
+![Dash2](Dash2.png)
 
 ## Data Forecasting
+![Forecast](Forecast.png)
 
 
 Data forecasting is a method that utilizes historical data to make  predictions about future trends using statistical methods. This technique is vital for businesses as it assists in planning for expected costs, distributing resources, and making strategic decisions.
