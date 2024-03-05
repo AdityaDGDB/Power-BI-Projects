@@ -30,7 +30,7 @@ Sales, Quantity of sales, net profit and ship date are shown as the major key  p
 ## Dashboard View
 ### Overall
 ![Dash](Dash.png)
-### South
+### South regional filter
 ![Dash2](Dash2.png)
 
 ## Data Forecasting
